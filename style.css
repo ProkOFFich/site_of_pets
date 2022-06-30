@@ -1,0 +1,86 @@
+body {
+  font-family: Arial;
+  margin: 0px;
+}
+
+header a {
+  text-decoration: none;
+  color: white;
+  margin: 15px;
+  padding: 10px;
+  border: 2px solid white;
+  border-radius: 15px; 
+}
+
+header {
+  background-color: black;
+  color: white;
+  display: flex;
+}
+
+main {
+  background-color: #B26D6D;
+}
+
+
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+.card {
+  text-align: center;
+  padding: 10px;
+  background-color: grey;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-around;
+}
+
+h3 {
+  color: white;
+}
+
+main img {
+  margin-top: 100px;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 50px;
+  color: white;
+}
+
+.cards2 {
+  display: flex;
+  justify-content: space-around;
+}
+
+
+footer {
+  background-color: black;
+  color: white;
+}
+
+li {
+  color: white;
+  text-align: center;
+  width: 100%;
+}
+
+.foot ul {
+  list-style: url("https://i.ibb.co/KFxjtr6/Webp-net-resizeimage.png");
+}
+
+footer h2 {
+  text-align: center;
+}
+
+.block {
+  display: flex;
+  justify-content: center;
+  
+}
